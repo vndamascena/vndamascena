@@ -11,11 +11,14 @@ Sou uma pessoa prestativa, dedicada e estou em constante busca por aprendizado e
 
 Minhas habilidades e conhecimentos: 
 
-Programação orientada a objetos em C# \ SOLID, Código limpo e padrões de projeto
+Programação orientada a objetos em C# 
+SOLID, Código limpo e padrões de projeto
 Asp.NET MVC e API, arquitetura de microserviços REST
-EntityFramework ORM \ Mensageria RABBITMQ
+EntityFramework ORM 
+Mensageria RABBITMQ
 DDD – Domain Driven Design e TDD – Test Driven Development
-GitHub e publicação \ FrontEnd com Angular e bootstrap
+GitHub e publicação 
+FrontEnd com Angular e bootstrap
 Banco de dados SqlServer
 
 Essas habilidades técnicas me permitem desenvolver sistemas ⚙️ robustos e escaláveis, que atendem às necessidades dos negócios.
